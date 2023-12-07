@@ -1,5 +1,7 @@
- 
- ![vpnnnnn](https://github.com/Kasen-Elliot/vpn-/assets/127895952/1bd37507-a3b4-408d-b07b-ca3397f28383) 
+ <p align="center">
+  <img width="460" height="300" src="![vpnnnnn](https://github.com/Kasen-Elliot/vpn-/assets/127895952/1bd37507-a3b4-408d-b07b-ca3397f28383)">
+</p>
+
  
  
 <h1 align = "center">Understanding and Installing Virtual Private Networks</h1>
