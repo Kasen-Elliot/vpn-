@@ -1,6 +1,5 @@
 <p align="center">
-<img ="![vpnnnnn](https://github.com/Kasen-Elliot/vpn-/assets/127895952/baaa0915-13cc-412b-bd0c-d44fe3c89899)
-"/>
+<img ="![vpnnnnn](https://github.com/Kasen-Elliot/vpn-/assets/127895952/1bd37507-a3b4-408d-b07b-ca3397f28383)"/>
 </p>
 
 <h1 align = "center">Understanding and Installing Virtual Private Networks</h1>
