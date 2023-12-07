@@ -4,7 +4,7 @@
 </center>
 
  <center>
-    <img src="assets/images/vpnnnnn.png">
+    <img src="vpnnnnn.png">
 </center>
 
 
