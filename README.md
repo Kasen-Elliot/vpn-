@@ -1,5 +1,6 @@
 <p align="center">
-[<[vpnnnnn](https://github.com/Kasen-Elliot/vpn-/assets/127895952/7eff539a-37a2-44e4-a8a1-0b1e182fe07b)" height = 20% width = 20%/>](https://github.com/Kasen-Elliot/vpn-/assets/127895952/7eff539a-37a2-44e4-a8a1-0b1e182fe07b)
+<img src="![vpnnnnn](https://github.com/Kasen-Elliot/vpn-/assets/127895952/baaa0915-13cc-412b-bd0c-d44fe3c89899)
+"/>
 </p>
 
 <h1 align = "center">Understanding and Installing Virtual Private Networks</h1>
