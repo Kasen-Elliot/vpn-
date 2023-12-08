@@ -1,11 +1,7 @@
-<center>
-    <img src="![vpnnnnn](https://github.com/Kasen-Elliot/vpn-/assets/127895952/11064d4b-a615-45c3-9207-7c5c5649f29d)
-"> 
-</center>
+<p align="center">
+<img src="https://github.com/ColtonTrauCC/vpn/assets/147654000/14cf23c5-20c7-441e-8641-c24dc06d06ce" height = 20% width = 20%/>
+</p>
 
- <center>
-    <img src="vpnnnnn.png">
-</center>
 
 
 
