@@ -34,8 +34,7 @@ A Virtual Private Network (VPN) is a powerful security tool that connects two co
 
 <p>
   <ul>
-    <li>Before setting up, browse to <a href ="https://whatismyipaddress.com/">What Is My IP Address</a> and take note of your IPv4 Address</li>
-    <li>Now go to the Microsoft Azure Portal and create a Resource Group and a Virtual Machine. When creating your VM, make sure the <b>Region</b> is set in a region outside of your country</li>
+    <li>Go to the Microsoft Azure Portal and create a Resource Group and a Virtual Machine. When creating your VM, make sure the <b>Region</b> is set in a region outside of your country</li>
     <li>Log in to your VM through Remote Desktop and go to What Is My IP Address. The IPv4 Address in the VM should be <b>different</b> than the one on your main computer.</li>
   </ul>
 </p>
