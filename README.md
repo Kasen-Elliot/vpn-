@@ -6,7 +6,7 @@
 
 
 <h1 align = "center">Installing Virtual Private Networks</h1>
-A Virtual Private Network (VPN) is a powerful security tool that connects two comptuers (networks) in a insecure network that is the Internet, allowing data to be encapsulated and encrypted between each other. This tutorial shows how to install a VPN through an Azure Virtual Machine environment 
+A Virtual Private Network (VPN) is a security tool that connects two comptuers (networks) in a insecure network that is the Internet, allowing data to be encapsulated and encrypted between each other. This tutorial shows how to install a VPN through an Azure Virtual Machine environment 
 
 <br />
 
